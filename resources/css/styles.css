@@ -1,0 +1,124 @@
+* {
+    text-align: center;
+}
+
+body {
+    background-color: #f8c3af;
+}
+
+.container {
+    background-color: #94DAFF;
+    margin: 10px;
+}
+
+/* Color Section */
+.color-container {
+    padding-bottom: 10px;
+}
+.color-panel {
+    display: inline-block;
+    border: black 1px solid;
+    border-radius: 5px;
+    padding: 2px;
+    width: 145px;
+    margin: 4px 2px;
+}
+.warm-purple {
+    background-color: #BE8ABF;
+}
+.warm-darkpink {
+    background-color: #EA9ABB;
+}
+.warm-pink {
+    background-color: #FEA5AD;
+}
+.warm-peach {
+    background-color: #F8C3AF;
+}
+.cool-purple {
+    background-color: #B983FF;
+}
+.cool-darkblue {
+    background-color: #94B3FD;
+}
+.cool-blue {
+    background-color: #94DAFF;
+}
+.cool-skyblue {
+    background-color: #99FEFF;
+}
+
+/* Font Section */
+.font-panel {
+    display: inline-block;
+    margin: 5px;
+}
+.IBM-Plex-Sans-label {
+    font-family: 'IBM Plex Sans', sans-serif;
+    text-decoration: underline;
+}
+.IBM-Plex-Sans-reg {
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-weight: 400;
+}
+.IBM-Plex-Sans-italic {
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-style: italic;
+}
+.IBM-Plex-Sans-bold {
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-weight: bold;
+}
+.SUSE-label {
+    font-family: 'SUSE', sans-serif;
+    text-decoration: underline;
+}
+.SUSE-reg {
+    font-family: 'SUSE', sans-serif;
+    font-weight: 400;
+}
+.SUSE-italic {
+    font-family: 'SUSE', sans-serif;
+    font-style: italic;
+}
+.SUSE-bold {
+    font-family: 'SUSE', sans-serif;
+    font-weight: bold;
+}
+.Fredoka-label {
+    font-family: Fredoka, sans-serif;
+    text-decoration: underline;
+}
+.Fredoka-reg {
+    font-family: Fredoka, sans-serif;
+    font-weight: 400;
+}
+.Fredoka-italic {
+    font-family: Fredoka, sans-serif;
+    font-style: italic;
+}
+.Fredoka-bold {
+    font-family: Fredoka, sans-serif;
+    font-weight: bold;
+}
+
+/* Text Style Section */
+h1 {
+    font-family: Fredoka, sans-serif;
+    font-weight: 600;
+    font-size: 60px;
+}
+h2 {
+    font-family: 'SUSE', sans-serif;
+    font-weight: 400;
+    font-size: 40px;
+}
+p, ul {
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+}
+ul {
+    text-align: center;
+    list-style-position: inside;
+}
