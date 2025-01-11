@@ -8,7 +8,8 @@ body {
 
 .container {
     background-color: #94DAFF;
-    margin: 10px;
+    margin: 10px 200px;
+    border-radius: 30px;
 }
 
 /* Color Section */
